@@ -1,0 +1,5 @@
+venv/
+*.db
+*.xls*
+.DS_Store
+.vscode/
